@@ -1,0 +1,15 @@
+"tabbar.game" = "Game";
+"tabbar.result" = "Result";
+"game.title.1" = "Play Rock Scissors Paper";
+"game.content.1" = "Within 3 seconds, decide whether to choose rock, paper, or scissors. Rock beats scissors, scissors beats paper, and paper beats rock. The game lasts 5 rounds (win from 3 wins).";
+"startBtn" = "Play Now";
+"game.title.2" = "Game on";
+"game.choose" = "Choose your hand";
+"btn.result" = "Next";
+"Dealer" = "Dealer";
+"Your choice" = "Your choice";
+"result.title" = "Result";
+"win.label" = "Number of wins:";
+"score" = "Score:";
+"name.enter" = "Enter name..";
+"Done" = "Done";
